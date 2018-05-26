@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstLab</string>
+    <string-array name="planets_array">
+        <item>Edo</item>
+        <item>SpikeyBit</item>
+        <item>ThannhaeuserC</item>
+    </string-array>
+</resources>
